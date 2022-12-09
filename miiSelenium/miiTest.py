@@ -21,7 +21,7 @@ def main():
     driver.get(url)
 
     #dodawanie produktów do koszyka
-    for i in range(1):
+    for i in range(10):
         driver.find_element(By.CLASS_NAME, 'all-product-link').click()
         elements = driver.find_elements(By.CLASS_NAME,'replace-2x')
         elements[randint(0,len(elements)-1)].click()
