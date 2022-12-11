@@ -1,0 +1,1950 @@
+1670545846212	geckodriver	INFO	Listening on 127.0.0.1:54372
+1670545849274	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejLTx5M"
+1670545849647	Marionette	INFO	Marionette enabled
+1670545849651	Marionette	INFO	Listening on port 54388
+WebDriver BiDi listening on ws://127.0.0.1:54373
+Read port: 54388
+1670545849851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejLTx5M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54373/devtools/browser/94ce86aa-be19-4980-9ae7-34ad3957461c
+1670545853545	Marionette	INFO	Stopped listening on port 54388
+1670546334410	geckodriver	INFO	Listening on 127.0.0.1:56457
+1670546337471	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQjDjkz"
+1670546337775	Marionette	INFO	Marionette enabled
+1670546337779	Marionette	INFO	Listening on port 56487
+Read port: 56487
+WebDriver BiDi listening on ws://127.0.0.1:56458
+1670546337875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQjDjkz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56458/devtools/browser/518b0e2d-cc15-4382-8ecc-8add2b8099e8
+1670546340730	Marionette	INFO	Stopped listening on port 56487
+[Parent 10796, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670546473067	geckodriver	INFO	Listening on 127.0.0.1:57275
+1670546476131	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyPvuiV"
+1670546476459	Marionette	INFO	Marionette enabled
+1670546476463	Marionette	INFO	Listening on port 57314
+Read port: 57314
+WebDriver BiDi listening on ws://127.0.0.1:57276
+1670546476563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyPvuiV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57276/devtools/browser/e89b1359-676b-44bf-b980-c4b373b19096
+1670546479358	Marionette	INFO	Stopped listening on port 57314
+1670546806579	geckodriver	INFO	Listening on 127.0.0.1:57638
+1670546809620	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexaC4A4"
+1670546809922	Marionette	INFO	Marionette enabled
+1670546809925	Marionette	INFO	Listening on port 57650
+Read port: 57650
+WebDriver BiDi listening on ws://127.0.0.1:57639
+1670546810021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexaC4A4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57639/devtools/browser/5aaf434e-c252-42b3-b194-91f75dda150f
+1670546847695	Marionette	INFO	Stopped listening on port 57650
+[Parent 11720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670546869144	geckodriver	INFO	Listening on 127.0.0.1:57689
+1670546872196	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejTb2AD"
+1670546872484	Marionette	INFO	Marionette enabled
+1670546872488	Marionette	INFO	Listening on port 57700
+Read port: 57700
+WebDriver BiDi listening on ws://127.0.0.1:57690
+1670546872583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejTb2AD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57690/devtools/browser/fa86296e-5220-42c1-bf28-764b92da64c5
+1670546883959	Marionette	INFO	Stopped listening on port 57700
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670546899525	geckodriver	INFO	Listening on 127.0.0.1:57729
+1670546902589	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileaGsPj1"
+1670546902876	Marionette	INFO	Marionette enabled
+1670546902880	Marionette	INFO	Listening on port 57741
+Read port: 57741
+WebDriver BiDi listening on ws://127.0.0.1:57730
+1670546902987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileaGsPj1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57730/devtools/browser/8739a86c-cef4-4ef0-ae8c-b35e4d0c0d4b
+1670546912851	Marionette	INFO	Stopped listening on port 57741
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670546973112	geckodriver	INFO	Listening on 127.0.0.1:57790
+1670546976167	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilevcFdQe"
+1670546976476	Marionette	INFO	Marionette enabled
+1670546976481	Marionette	INFO	Listening on port 57803
+Read port: 57803
+WebDriver BiDi listening on ws://127.0.0.1:57791
+1670546976583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilevcFdQe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57791/devtools/browser/756a5539-6111-4678-af02-bd4dfe50fc6b
+1670546982858	Marionette	INFO	Stopped listening on port 57803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547047319	geckodriver	INFO	Listening on 127.0.0.1:57849
+1670547050366	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57850" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilePwqWX8"
+1670547050672	Marionette	INFO	Marionette enabled
+1670547050676	Marionette	INFO	Listening on port 57861
+Read port: 57861
+WebDriver BiDi listening on ws://127.0.0.1:57850
+1670547050772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilePwqWX8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57850/devtools/browser/ec5d11e0-e786-4ef0-be3e-2a8ffebf1a35
+1670547053379	Marionette	INFO	Stopped listening on port 57861
+1670547068363	geckodriver	INFO	Listening on 127.0.0.1:57882
+1670547071423	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilepcLRJ5"
+1670547071715	Marionette	INFO	Marionette enabled
+1670547071718	Marionette	INFO	Listening on port 57894
+Read port: 57894
+WebDriver BiDi listening on ws://127.0.0.1:57883
+1670547071814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilepcLRJ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57883/devtools/browser/75688cbf-48bd-432f-91bd-20ec5974fe6b
+1670547077730	Marionette	INFO	Stopped listening on port 57894
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547096129	geckodriver	INFO	Listening on 127.0.0.1:57926
+1670547099193	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDByOvc"
+1670547099485	Marionette	INFO	Marionette enabled
+1670547099489	Marionette	INFO	Listening on port 57939
+Read port: 57939
+WebDriver BiDi listening on ws://127.0.0.1:57927
+1670547099586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDByOvc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57927/devtools/browser/78f91750-55e6-43bc-aeab-4b9c30ad6e63
+1670547106003	Marionette	INFO	Stopped listening on port 57939
+1670547166040	geckodriver	INFO	Listening on 127.0.0.1:52949
+1670547169099	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilekRQcb5"
+1670547169418	Marionette	INFO	Marionette enabled
+1670547169423	Marionette	INFO	Listening on port 52962
+Read port: 52962
+WebDriver BiDi listening on ws://127.0.0.1:52950
+1670547169537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilekRQcb5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52950/devtools/browser/cb949268-bb1e-4dd2-aeed-0aa855ea0e1f
+1670547176943	Marionette	INFO	Stopped listening on port 52962
+1670547194520	geckodriver	INFO	Listening on 127.0.0.1:53002
+1670547197554	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilerjgYxq"
+1670547197847	Marionette	INFO	Marionette enabled
+1670547197850	Marionette	INFO	Listening on port 53015
+Read port: 53015
+WebDriver BiDi listening on ws://127.0.0.1:53003
+1670547197948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilerjgYxq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53003/devtools/browser/610daddc-18e3-4fd0-8e84-b30412ecf129
+1670547204176	Marionette	INFO	Stopped listening on port 53015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547226750	geckodriver	INFO	Listening on 127.0.0.1:53058
+1670547229804	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile4B8Zxp"
+1670547230098	Marionette	INFO	Marionette enabled
+1670547230102	Marionette	INFO	Listening on port 53072
+Read port: 53072
+WebDriver BiDi listening on ws://127.0.0.1:53059
+1670547230196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile4B8Zxp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53059/devtools/browser/8a62e7b1-42d2-4a16-ad9c-b95a36b7ab18
+1670547236894	Marionette	INFO	Stopped listening on port 53072
+[Parent 17900, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670547257151	geckodriver	INFO	Listening on 127.0.0.1:53112
+1670547260209	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilemaGOJp"
+1670547260507	Marionette	INFO	Marionette enabled
+1670547260511	Marionette	INFO	Listening on port 53127
+Read port: 53127
+WebDriver BiDi listening on ws://127.0.0.1:53113
+1670547260607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilemaGOJp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53113/devtools/browser/6d3cc38a-fbcc-4dd8-9916-27703d08a7da
+1670547265556	Marionette	INFO	Stopped listening on port 53127
+1670547299451	geckodriver	INFO	Listening on 127.0.0.1:53177
+1670547302500	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyic0Jm"
+1670547302802	Marionette	INFO	Marionette enabled
+1670547302805	Marionette	INFO	Listening on port 53190
+Read port: 53190
+WebDriver BiDi listening on ws://127.0.0.1:53178
+1670547302901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyic0Jm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53178/devtools/browser/1cdca322-eb01-42b8-8fe6-fe6a1f4b6eba
+1670547310006	Marionette	INFO	Stopped listening on port 53190
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547319435	geckodriver	INFO	Listening on 127.0.0.1:53228
+1670547322490	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilequ7B3H"
+1670547322785	Marionette	INFO	Marionette enabled
+1670547322789	Marionette	INFO	Listening on port 53242
+Read port: 53242
+WebDriver BiDi listening on ws://127.0.0.1:53229
+1670547322888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilequ7B3H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53229/devtools/browser/235f2bdd-bd5d-47f2-9613-f9aa31b3f511
+1670547328712	Marionette	INFO	Stopped listening on port 53242
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547354473	geckodriver	INFO	Listening on 127.0.0.1:53288
+1670547357521	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelcCbMb"
+1670547357820	Marionette	INFO	Marionette enabled
+1670547357825	Marionette	INFO	Listening on port 53301
+Read port: 53301
+WebDriver BiDi listening on ws://127.0.0.1:53289
+1670547357927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelcCbMb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53289/devtools/browser/81c76664-4233-4f4c-ab16-cf96d9b8ca6c
+1670547372887	Marionette	INFO	Stopped listening on port 53301
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547398075	geckodriver	INFO	Listening on 127.0.0.1:53356
+1670547401150	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilez9bzvs"
+1670547401440	Marionette	INFO	Marionette enabled
+1670547401443	Marionette	INFO	Listening on port 53370
+Read port: 53370
+WebDriver BiDi listening on ws://127.0.0.1:53357
+1670547401541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilez9bzvs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53357/devtools/browser/7ace7bbe-5e2b-40cb-b54d-224536062d42
+1670547405878	Marionette	INFO	Stopped listening on port 53370
+1670547475133	geckodriver	INFO	Listening on 127.0.0.1:53437
+1670547478197	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilefeZ6NP"
+1670547478484	Marionette	INFO	Marionette enabled
+1670547478488	Marionette	INFO	Listening on port 53451
+Read port: 53451
+WebDriver BiDi listening on ws://127.0.0.1:53438
+1670547478580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilefeZ6NP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53438/devtools/browser/8a2f122b-ac6b-447c-8a85-dacbc45ea77f
+1670547483220	Marionette	INFO	Stopped listening on port 53451
+1670547595025	geckodriver	INFO	Listening on 127.0.0.1:53542
+1670547598084	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile8bCeyb"
+1670547598385	Marionette	INFO	Marionette enabled
+1670547598389	Marionette	INFO	Listening on port 53555
+Read port: 53555
+WebDriver BiDi listening on ws://127.0.0.1:53543
+1670547598489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile8bCeyb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53543/devtools/browser/81e45e3d-a2a6-43f9-a37b-183e56d20b3b
+1670547606410	Marionette	INFO	Stopped listening on port 53555
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547638715	geckodriver	INFO	Listening on 127.0.0.1:53615
+1670547641785	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileCO6U5v"
+1670547642131	Marionette	INFO	Marionette enabled
+1670547642138	Marionette	INFO	Listening on port 53630
+WebDriver BiDi listening on ws://127.0.0.1:53616
+Read port: 53630
+1670547642357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileCO6U5v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53616/devtools/browser/a4a37c5f-ce08-4d71-9a00-566f9b9ccbb0
+1670547651335	Marionette	INFO	Stopped listening on port 53630
+[Parent 13240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670547669002	geckodriver	INFO	Listening on 127.0.0.1:53684
+1670547672059	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSgoOJm"
+1670547672347	Marionette	INFO	Marionette enabled
+1670547672351	Marionette	INFO	Listening on port 53697
+Read port: 53697
+WebDriver BiDi listening on ws://127.0.0.1:53685
+1670547672444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSgoOJm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53685/devtools/browser/425e1efe-75db-414f-abf4-09cb647d6d5b
+1670547677708	Marionette	INFO	Stopped listening on port 53697
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547703097	geckodriver	INFO	Listening on 127.0.0.1:53752
+1670547706148	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile6ZHF6e"
+1670547706519	Marionette	INFO	Marionette enabled
+1670547706523	Marionette	INFO	Listening on port 53766
+Read port: 53766
+WebDriver BiDi listening on ws://127.0.0.1:53753
+1670547706663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile6ZHF6e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53753/devtools/browser/105df686-1538-4702-a227-34169acef516
+1670547716018	Marionette	INFO	Stopped listening on port 53766
+1670547793658	geckodriver	INFO	Listening on 127.0.0.1:53839
+1670547796715	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileS1XNA2"
+1670547797051	Marionette	INFO	Marionette enabled
+1670547797055	Marionette	INFO	Listening on port 53853
+WebDriver BiDi listening on ws://127.0.0.1:53840
+Read port: 53853
+1670547797286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileS1XNA2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53840/devtools/browser/1bc751f3-54d3-410d-ad90-df95823441bc
+1670547807757	Marionette	INFO	Stopped listening on port 53853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547827884	geckodriver	INFO	Listening on 127.0.0.1:53933
+1670547830963	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileZHElDB"
+1670547831272	Marionette	INFO	Marionette enabled
+1670547831276	Marionette	INFO	Listening on port 53946
+Read port: 53946
+WebDriver BiDi listening on ws://127.0.0.1:53934
+1670547831381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileZHElDB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53934/devtools/browser/8ba368b9-723b-430b-90be-89950d3e62d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670547852485	Marionette	INFO	Stopped listening on port 53946
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670547862699	geckodriver	INFO	Listening on 127.0.0.1:54003
+1670547865775	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileOQCiFZ"
+1670547866065	Marionette	INFO	Marionette enabled
+1670547866068	Marionette	INFO	Listening on port 54016
+Read port: 54016
+WebDriver BiDi listening on ws://127.0.0.1:54004
+1670547866164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileOQCiFZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54004/devtools/browser/7e426e6f-291a-4c88-8e8d-9628bf402748
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670547877108	Marionette	INFO	Stopped listening on port 54016
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670549390916	geckodriver	INFO	Listening on 127.0.0.1:54874
+1670549393981	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileA3wmTu"
+1670549394301	Marionette	INFO	Marionette enabled
+1670549394305	Marionette	INFO	Listening on port 54888
+Read port: 54888
+WebDriver BiDi listening on ws://127.0.0.1:54875
+1670549394397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileA3wmTu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54875/devtools/browser/b6603c99-f9b4-4da7-9581-95c56e85c6e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670549402894	Marionette	INFO	Stopped listening on port 54888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670549409465	geckodriver	INFO	Listening on 127.0.0.1:54927
+1670549412516	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilekjH6ZI"
+1670549412814	Marionette	INFO	Marionette enabled
+1670549412817	Marionette	INFO	Listening on port 54939
+Read port: 54939
+WebDriver BiDi listening on ws://127.0.0.1:54928
+1670549412916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilekjH6ZI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54928/devtools/browser/2b75eaea-a1b3-4cd2-a676-b021c05ac3af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670549419528	Marionette	INFO	Stopped listening on port 54939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670549512039	geckodriver	INFO	Listening on 127.0.0.1:55029
+1670549515113	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileYFuuDK"
+1670549515425	Marionette	INFO	Marionette enabled
+1670549515428	Marionette	INFO	Listening on port 55043
+Read port: 55043
+WebDriver BiDi listening on ws://127.0.0.1:55030
+1670549515539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileYFuuDK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55030/devtools/browser/5e2e75b3-3051-4c6b-9a89-50448b972d45
+1670549592443	geckodriver	INFO	Listening on 127.0.0.1:55119
+1670549595488	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilePZ3yIJ"
+1670549595779	Marionette	INFO	Marionette enabled
+1670549595782	Marionette	INFO	Listening on port 55133
+Read port: 55133
+WebDriver BiDi listening on ws://127.0.0.1:55120
+1670549595884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilePZ3yIJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55120/devtools/browser/6a35b254-6174-475b-a6f7-a56d38e1df80
+1670549606484	Marionette	INFO	Stopped listening on port 55133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670549634639	geckodriver	INFO	Listening on 127.0.0.1:55187
+1670549637711	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileRHgxsU"
+1670549638011	Marionette	INFO	Marionette enabled
+1670549638015	Marionette	INFO	Listening on port 55201
+Read port: 55201
+WebDriver BiDi listening on ws://127.0.0.1:55188
+1670549638116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileRHgxsU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55188/devtools/browser/baae0903-b6cf-4467-9aef-cbc55bb50a97
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/index.php?id_product=1&id_product_attribute=1&rewrite=hummingbird-printed-t-shirt&controller=product&id_lang=2#/1-rozmiar-s/8-kolor-bialy. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/index.php?id_product=1&id_product_attribute=1&rewrite=hummingbird-printed-t-shirt&controller=product&id_lang=2#/1-rozmiar-s/8-kolor-bialy. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/index.php?id_product=1&id_product_attribute=1&rewrite=hummingbird-printed-t-shirt&controller=product&id_lang=2#/1-rozmiar-s/8-kolor-bialy. Code 2153394164.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670549669916	Marionette	INFO	Stopped listening on port 55201
+[Parent 14036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670549683124	geckodriver	INFO	Listening on 127.0.0.1:55262
+1670549686189	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelT5s5w"
+1670549686484	Marionette	INFO	Marionette enabled
+1670549686488	Marionette	INFO	Listening on port 55275
+Read port: 55275
+WebDriver BiDi listening on ws://127.0.0.1:55263
+1670549686579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelT5s5w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55263/devtools/browser/6f71a74f-10f7-422c-932d-35effc0ce0d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670549704595	Marionette	INFO	Stopped listening on port 55275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670549706806	geckodriver	INFO	Listening on 127.0.0.1:55323
+1670549709883	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileRButAa"
+1670549710176	Marionette	INFO	Marionette enabled
+1670549710180	Marionette	INFO	Listening on port 55338
+Read port: 55338
+WebDriver BiDi listening on ws://127.0.0.1:55324
+1670549710275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileRButAa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55324/devtools/browser/fc84d4b1-40be-4387-9608-21d2f61081bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670549966409	geckodriver	INFO	Listening on 127.0.0.1:58313
+1670549969473	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDRW8Ke"
+1670549969767	Marionette	INFO	Marionette enabled
+1670549969771	Marionette	INFO	Listening on port 58326
+Read port: 58326
+WebDriver BiDi listening on ws://127.0.0.1:58314
+1670549969867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDRW8Ke\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58314/devtools/browser/81f4bdf9-35bf-4c7d-bd4d-5a56e8e75b39
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670549979607	Marionette	INFO	Stopped listening on port 58326
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550035557	geckodriver	INFO	Listening on 127.0.0.1:58395
+1670550038600	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelH9fYb"
+1670550038898	Marionette	INFO	Marionette enabled
+1670550038901	Marionette	INFO	Listening on port 58409
+Read port: 58409
+WebDriver BiDi listening on ws://127.0.0.1:58396
+1670550039001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelH9fYb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58396/devtools/browser/c24546d8-fdf9-40ee-98b6-ed525efa2cd1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550179851	geckodriver	INFO	Listening on 127.0.0.1:58526
+1670550182909	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilew7QLwI"
+1670550183210	Marionette	INFO	Marionette enabled
+1670550183214	Marionette	INFO	Listening on port 58540
+Read port: 58540
+WebDriver BiDi listening on ws://127.0.0.1:58527
+1670550183308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilew7QLwI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58527/devtools/browser/d6efa017-bbed-44c4-8998-85196ba87cb3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550192178	Marionette	INFO	Stopped listening on port 58540
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550197689	geckodriver	INFO	Listening on 127.0.0.1:58575
+1670550200738	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile5ENz0e"
+1670550201039	Marionette	INFO	Marionette enabled
+1670550201042	Marionette	INFO	Listening on port 58592
+Read port: 58592
+WebDriver BiDi listening on ws://127.0.0.1:58576
+1670550201140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile5ENz0e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58576/devtools/browser/4fd4f9c3-8581-495e-b4c6-4684811a7d06
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550298455	geckodriver	INFO	Listening on 127.0.0.1:58699
+1670550301522	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileABmWzZ"
+1670550301823	Marionette	INFO	Marionette enabled
+1670550301828	Marionette	INFO	Listening on port 58713
+Read port: 58713
+WebDriver BiDi listening on ws://127.0.0.1:58700
+1670550301930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileABmWzZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58700/devtools/browser/2ae66703-31a9-42ba-84a8-80e8f8ed1bd4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550309764	Marionette	INFO	Stopped listening on port 58713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550333694	geckodriver	INFO	Listening on 127.0.0.1:58757
+1670550336740	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledN8tT0"
+1670550337041	Marionette	INFO	Marionette enabled
+1670550337045	Marionette	INFO	Listening on port 58770
+Read port: 58770
+WebDriver BiDi listening on ws://127.0.0.1:58758
+1670550337138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledN8tT0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58758/devtools/browser/1d33d987-8831-4720-8789-26344c1fb23c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550345437	Marionette	INFO	Stopped listening on port 58770
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550358343	geckodriver	INFO	Listening on 127.0.0.1:58808
+1670550361410	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileArKWid"
+1670550361717	Marionette	INFO	Marionette enabled
+1670550361722	Marionette	INFO	Listening on port 58822
+Read port: 58822
+WebDriver BiDi listening on ws://127.0.0.1:58809
+1670550361820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileArKWid\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58809/devtools/browser/3b294ef3-1503-42d9-89ac-f740025fb01a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550413765	geckodriver	INFO	Listening on 127.0.0.1:58879
+1670550416817	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledQwBHn"
+1670550417125	Marionette	INFO	Marionette enabled
+1670550417129	Marionette	INFO	Listening on port 58892
+Read port: 58892
+WebDriver BiDi listening on ws://127.0.0.1:58880
+1670550417223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledQwBHn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58880/devtools/browser/b082c946-f628-4c22-b115-37b3d222bc1a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550425941	Marionette	INFO	Stopped listening on port 58892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550478919	geckodriver	INFO	Listening on 127.0.0.1:58959
+1670550481981	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileqQuXvE"
+1670550482291	Marionette	INFO	Marionette enabled
+1670550482296	Marionette	INFO	Listening on port 58972
+Read port: 58972
+WebDriver BiDi listening on ws://127.0.0.1:58960
+1670550482396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileqQuXvE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58960/devtools/browser/e0830a7c-32cd-46ae-96ff-ae2fb13089bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550493038	Marionette	INFO	Stopped listening on port 58972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550557973	geckodriver	INFO	Listening on 127.0.0.1:59080
+1670550561022	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilebclLlX"
+1670550561316	Marionette	INFO	Marionette enabled
+1670550561321	Marionette	INFO	Listening on port 59094
+Read port: 59094
+WebDriver BiDi listening on ws://127.0.0.1:59081
+1670550561418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilebclLlX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59081/devtools/browser/b4d7b0a0-0845-46fc-a11a-7f603776ca19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550574199	Marionette	INFO	Stopped listening on port 59094
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550583341	geckodriver	INFO	Listening on 127.0.0.1:59133
+1670550586374	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileoVeDeJ"
+1670550586671	Marionette	INFO	Marionette enabled
+1670550586676	Marionette	INFO	Listening on port 59148
+Read port: 59148
+WebDriver BiDi listening on ws://127.0.0.1:59134
+1670550586767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileoVeDeJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59134/devtools/browser/e7a3b18b-1232-43bd-bc83-e5dd1886ecd9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550604409	Marionette	INFO	Stopped listening on port 59148
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550614428	geckodriver	INFO	Listening on 127.0.0.1:59194
+1670550617482	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejV9Ndn"
+1670550617776	Marionette	INFO	Marionette enabled
+1670550617780	Marionette	INFO	Listening on port 59207
+Read port: 59207
+WebDriver BiDi listening on ws://127.0.0.1:59195
+1670550617875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejV9Ndn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59195/devtools/browser/f793f83e-50d6-4f8f-85f2-de990d8d889b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550632037	Marionette	INFO	Stopped listening on port 59207
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550706315	geckodriver	INFO	Listening on 127.0.0.1:59280
+1670550709374	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileaYEfGa"
+1670550709667	Marionette	INFO	Marionette enabled
+1670550709671	Marionette	INFO	Listening on port 59294
+Read port: 59294
+WebDriver BiDi listening on ws://127.0.0.1:59281
+1670550709765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileaYEfGa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59281/devtools/browser/47aa7a5e-12eb-45c8-8e30-87860e4c634c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550724332	Marionette	INFO	Stopped listening on port 59294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550760485	geckodriver	INFO	Listening on 127.0.0.1:59362
+1670550763536	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilevf4CV0"
+1670550763910	Marionette	INFO	Marionette enabled
+1670550763914	Marionette	INFO	Listening on port 59376
+Read port: 59376
+WebDriver BiDi listening on ws://127.0.0.1:59363
+1670550764056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilevf4CV0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59363/devtools/browser/04deb292-cb2f-49e8-8b10-a0067883aab2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670550777227	Marionette	INFO	Stopped listening on port 59376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550798359	geckodriver	INFO	Listening on 127.0.0.1:59422
+1670550801400	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile9AlHu3"
+1670550801701	Marionette	INFO	Marionette enabled
+1670550801705	Marionette	INFO	Listening on port 59436
+Read port: 59436
+WebDriver BiDi listening on ws://127.0.0.1:59423
+1670550801800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile9AlHu3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59423/devtools/browser/a51fee50-b9ab-401f-8dc6-13fef5846d94
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670550818154	Marionette	INFO	Stopped listening on port 59436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550854508	geckodriver	INFO	Listening on 127.0.0.1:59496
+1670550857574	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilemGcJrc"
+1670550857877	Marionette	INFO	Marionette enabled
+1670550857881	Marionette	INFO	Listening on port 59509
+Read port: 59509
+WebDriver BiDi listening on ws://127.0.0.1:59497
+1670550857978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilemGcJrc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59497/devtools/browser/4fa278ac-1ea5-48bd-bedd-e3344176b653
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670550873717	Marionette	INFO	Stopped listening on port 59509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550912445	geckodriver	INFO	Listening on 127.0.0.1:59605
+1670550915496	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileq3XQAp"
+1670550915792	Marionette	INFO	Marionette enabled
+1670550915796	Marionette	INFO	Listening on port 59618
+Read port: 59618
+WebDriver BiDi listening on ws://127.0.0.1:59606
+1670550915894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileq3XQAp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59606/devtools/browser/e6a95145-d676-4299-82ec-85885c692a25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670550930230	Marionette	INFO	Stopped listening on port 59618
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670550941288	geckodriver	INFO	Listening on 127.0.0.1:59670
+1670550944331	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileqwu0sg"
+1670550944626	Marionette	INFO	Marionette enabled
+1670550944630	Marionette	INFO	Listening on port 59684
+Read port: 59684
+WebDriver BiDi listening on ws://127.0.0.1:59671
+1670550944724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileqwu0sg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59671/devtools/browser/0f1ff263-0d53-404c-8a30-84f64c55cca7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579539792	geckodriver	INFO	Listening on 127.0.0.1:51571
+1670579542877	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilecUaykZ"
+1670579543268	Marionette	INFO	Marionette enabled
+1670579543273	Marionette	INFO	Listening on port 51583
+WebDriver BiDi listening on ws://127.0.0.1:51572
+Read port: 51583
+1670579543457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilecUaykZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51572/devtools/browser/238cce60-de2b-42c5-9d33-77a74e096b63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670579643620	geckodriver	INFO	Listening on 127.0.0.1:51650
+1670579646692	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileCFCgSc"
+1670579646964	Marionette	INFO	Marionette enabled
+1670579646968	Marionette	INFO	Listening on port 51662
+WebDriver BiDi listening on ws://127.0.0.1:51651
+Read port: 51662
+1670579647078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileCFCgSc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51651/devtools/browser/3a87b20e-a60a-4b22-8e9e-b003dbb02889
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670579662343	Marionette	INFO	Stopped listening on port 51662
+1670579678821	geckodriver	INFO	Listening on 127.0.0.1:51700
+1670579681856	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWjWDJG"
+1670579682159	Marionette	INFO	Marionette enabled
+1670579682163	Marionette	INFO	Listening on port 51712
+Read port: 51712
+WebDriver BiDi listening on ws://127.0.0.1:51701
+1670579682276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWjWDJG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51701/devtools/browser/2119a52a-5248-492b-88f8-14777f0c7748
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579703247	Marionette	INFO	Stopped listening on port 51712
+[Parent 22764, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670579760648	geckodriver	INFO	Listening on 127.0.0.1:51754
+1670579763716	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile4rmBVH"
+1670579763985	Marionette	INFO	Marionette enabled
+1670579763989	Marionette	INFO	Listening on port 51766
+WebDriver BiDi listening on ws://127.0.0.1:51755
+Read port: 51766
+1670579764160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile4rmBVH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51755/devtools/browser/ef7abc8c-159d-4743-b183-c05b8807adec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579776794	Marionette	INFO	Stopped listening on port 51766
+1670579785600	geckodriver	INFO	Listening on 127.0.0.1:51795
+1670579788660	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile3JSdtP"
+1670579788930	Marionette	INFO	Marionette enabled
+1670579788934	Marionette	INFO	Listening on port 51807
+WebDriver BiDi listening on ws://127.0.0.1:51796
+Read port: 51807
+1670579789110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile3JSdtP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51796/devtools/browser/c92e32a4-8d8b-4b3d-9b46-e90fb6cf033d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579800889	Marionette	INFO	Stopped listening on port 51807
+1670579810340	geckodriver	INFO	Listening on 127.0.0.1:51836
+1670579813388	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWtr7je"
+1670579813654	Marionette	INFO	Marionette enabled
+1670579813657	Marionette	INFO	Listening on port 51848
+WebDriver BiDi listening on ws://127.0.0.1:51837
+Read port: 51848
+1670579813825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWtr7je\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51837/devtools/browser/fecb0719-9585-4225-9dc9-8db084c92e55
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579826980	Marionette	INFO	Stopped listening on port 51848
+1670579907175	geckodriver	INFO	Listening on 127.0.0.1:51933
+1670579910236	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile0ojDBF"
+1670579910499	Marionette	INFO	Marionette enabled
+1670579910503	Marionette	INFO	Listening on port 51945
+WebDriver BiDi listening on ws://127.0.0.1:51934
+Read port: 51945
+1670579910672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile0ojDBF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51934/devtools/browser/83620180-9da6-4247-8ecb-1a9298b5994e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579924547	Marionette	INFO	Stopped listening on port 51945
+1670579937825	geckodriver	INFO	Listening on 127.0.0.1:51978
+1670579940893	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexRYEJ3"
+1670579941156	Marionette	INFO	Marionette enabled
+1670579941160	Marionette	INFO	Listening on port 51990
+WebDriver BiDi listening on ws://127.0.0.1:51979
+Read port: 51990
+1670579941333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexRYEJ3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51979/devtools/browser/31965d61-1155-467f-9347-0721497a569b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579955381	Marionette	INFO	Stopped listening on port 51990
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670579979988	geckodriver	INFO	Listening on 127.0.0.1:52020
+1670579983044	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilez5uUEV"
+1670579983334	Marionette	INFO	Marionette enabled
+1670579983338	Marionette	INFO	Listening on port 52032
+Read port: 52032
+WebDriver BiDi listening on ws://127.0.0.1:52021
+1670579983430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilez5uUEV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52021/devtools/browser/a84e7348-46fe-44d2-a949-f61bb523a5c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670579998447	Marionette	INFO	Stopped listening on port 52032
+1670580065127	geckodriver	INFO	Listening on 127.0.0.1:52078
+1670580068183	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile0FZprP"
+1670580068472	Marionette	INFO	Marionette enabled
+1670580068476	Marionette	INFO	Listening on port 52091
+Read port: 52091
+WebDriver BiDi listening on ws://127.0.0.1:52079
+1670580068571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile0FZprP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52079/devtools/browser/7eeb10aa-c30b-44f9-866c-6c29c5867393
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670580128122	Marionette	INFO	Stopped listening on port 52091
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670580185443	geckodriver	INFO	Listening on 127.0.0.1:52162
+1670580188508	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSQys4i"
+1670580188798	Marionette	INFO	Marionette enabled
+1670580188802	Marionette	INFO	Listening on port 52174
+Read port: 52174
+WebDriver BiDi listening on ws://127.0.0.1:52163
+1670580188891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSQys4i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52163/devtools/browser/47fa1019-e930-4541-8476-fd1102da8f90
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670580209046	Marionette	INFO	Stopped listening on port 52174
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670580229036	geckodriver	INFO	Listening on 127.0.0.1:52217
+1670580232094	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileg4hjEm"
+1670580232363	Marionette	INFO	Marionette enabled
+1670580232367	Marionette	INFO	Listening on port 52229
+WebDriver BiDi listening on ws://127.0.0.1:52218
+Read port: 52229
+1670580232539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileg4hjEm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52218/devtools/browser/313b93b1-e00f-4049-97a9-2fda61285277
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670580253917	Marionette	INFO	Stopped listening on port 52229
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670580270584	geckodriver	INFO	Listening on 127.0.0.1:52290
+1670580273652	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSq8lJr"
+1670580273914	Marionette	INFO	Marionette enabled
+1670580273918	Marionette	INFO	Listening on port 52302
+WebDriver BiDi listening on ws://127.0.0.1:52291
+Read port: 52302
+1670580274087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSq8lJr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52291/devtools/browser/30351126-1696-466d-af93-909de3dc0a17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670580371456	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670580372577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670580382358	Marionette	INFO	Stopped listening on port 52302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670580593382	geckodriver	INFO	Listening on 127.0.0.1:52464
+1670580596464	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile7l3rMS"
+1670580596732	Marionette	INFO	Marionette enabled
+1670580596736	Marionette	INFO	Listening on port 52478
+WebDriver BiDi listening on ws://127.0.0.1:52465
+Read port: 52478
+1670580596936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile7l3rMS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52465/devtools/browser/3ce8a410-070d-4099-8d4d-ea755a52b69f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670580630229	Marionette	INFO	Stopped listening on port 52478
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670580688221	geckodriver	INFO	Listening on 127.0.0.1:52552
+1670580691275	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilecqqpQv"
+1670580691543	Marionette	INFO	Marionette enabled
+1670580691546	Marionette	INFO	Listening on port 52565
+WebDriver BiDi listening on ws://127.0.0.1:52553
+Read port: 52565
+1670580691711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilecqqpQv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52553/devtools/browser/03705095-e89a-42b5-a4f4-371bec4aaeba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670580725214	Marionette	INFO	Stopped listening on port 52565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670580745798	geckodriver	INFO	Listening on 127.0.0.1:52619
+1670580748868	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileHC1jVa"
+1670580749135	Marionette	INFO	Marionette enabled
+1670580749139	Marionette	INFO	Listening on port 52633
+WebDriver BiDi listening on ws://127.0.0.1:52620
+Read port: 52633
+1670580749305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileHC1jVa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52620/devtools/browser/dec8369f-4ffc-476d-bbfd-e1887b4bd487
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670580995173	Marionette	INFO	Stopped listening on port 52633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670581127957	geckodriver	INFO	Listening on 127.0.0.1:52901
+1670581131031	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileLX5iLF"
+1670581131299	Marionette	INFO	Marionette enabled
+1670581131303	Marionette	INFO	Listening on port 52914
+WebDriver BiDi listening on ws://127.0.0.1:52902
+Read port: 52914
+1670581131475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileLX5iLF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52902/devtools/browser/84a6a720-5874-4880-8203-0b42f598e3e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670581156620	Marionette	INFO	Stopped listening on port 52914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670581500680	geckodriver	INFO	Listening on 127.0.0.1:53002
+1670581503756	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexOOnnL"
+1670581504023	Marionette	INFO	Marionette enabled
+1670581504027	Marionette	INFO	Listening on port 53014
+WebDriver BiDi listening on ws://127.0.0.1:53003
+Read port: 53014
+1670581504200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexOOnnL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53003/devtools/browser/665d9f3a-d3e8-4c08-87af-e93e73cf82e9
+1670581533847	Marionette	INFO	Stopped listening on port 53014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670581536636	geckodriver	INFO	Listening on 127.0.0.1:53049
+1670581539706	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile3pcKm5"
+1670581539976	Marionette	INFO	Marionette enabled
+1670581539980	Marionette	INFO	Listening on port 53061
+WebDriver BiDi listening on ws://127.0.0.1:53050
+Read port: 53061
+1670581540089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile3pcKm5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53050/devtools/browser/110f0a6a-81cb-4d87-8a03-65dfcd220fe6
+1670581542789	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670581544437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670582146462	Marionette	INFO	Stopped listening on port 53061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "53106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWSLNf8"
+1670581627499	Marionette	INFO	Marionette enabled
+1670581627502	Marionette	INFO	Listening on port 53117
+WebDriver BiDi listening on ws://127.0.0.1:53106
+Read port: 53117
+1670581627673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWSLNf8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53106/devtools/browser/e2b18af8-b721-4d47-8cd8-38d60cda368b
+1670581643746	Marionette	INFO	Stopped listening on port 53117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670581650096	geckodriver	INFO	Listening on 127.0.0.1:53153
+1670581653146	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWMjmHb"
+1670581653419	Marionette	INFO	Marionette enabled
+1670581653423	Marionette	INFO	Listening on port 53164
+Read port: 53164
+WebDriver BiDi listening on ws://127.0.0.1:53154
+1670581653532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWMjmHb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53154/devtools/browser/925ca1f7-f822-48d0-b56f-4a9cfa707e13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670581679103	Marionette	INFO	Stopped listening on port 53164
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670581701075	geckodriver	INFO	Listening on 127.0.0.1:53197
+1670581704147	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileO5AR9o"
+1670581704413	Marionette	INFO	Marionette enabled
+1670581704416	Marionette	INFO	Listening on port 53210
+WebDriver BiDi listening on ws://127.0.0.1:53198
+Read port: 53210
+1670581704587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileO5AR9o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53198/devtools/browser/32e29a7c-3db4-4390-a2db-2868497b5f57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670581717850	Marionette	INFO	Stopped listening on port 53210
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670581727905	geckodriver	INFO	Listening on 127.0.0.1:53242
+1670581730967	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilei4pZJd"
+1670581731232	Marionette	INFO	Marionette enabled
+1670581731236	Marionette	INFO	Listening on port 53254
+WebDriver BiDi listening on ws://127.0.0.1:53243
+Read port: 53254
+1670581731400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilei4pZJd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53243/devtools/browser/4fa388b5-f9bb-4716-8a31-f239cd05ba83
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670581750383	Marionette	INFO	Stopped listening on port 53254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582225365	geckodriver	INFO	Listening on 127.0.0.1:53546
+1670582228434	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile4FDg2x"
+1670582228695	Marionette	INFO	Marionette enabled
+1670582228699	Marionette	INFO	Listening on port 53560
+WebDriver BiDi listening on ws://127.0.0.1:53547
+Read port: 53560
+1670582228870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile4FDg2x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53547/devtools/browser/d382f231-a948-4fb9-9fd7-f584618c612b
+1670582234270	Marionette	INFO	Stopped listening on port 53560
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582260526	geckodriver	INFO	Listening on 127.0.0.1:53610
+1670582263605	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilewiioOm"
+1670582263873	Marionette	INFO	Marionette enabled
+1670582263876	Marionette	INFO	Listening on port 53623
+WebDriver BiDi listening on ws://127.0.0.1:53611
+Read port: 53623
+1670582264043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilewiioOm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53611/devtools/browser/cdca647d-29e6-4bd1-a8c3-979cb1526cfe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670582284188	Marionette	INFO	Stopped listening on port 53623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582528184	geckodriver	INFO	Listening on 127.0.0.1:53799
+1670582531239	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileRnomqE"
+1670582531507	Marionette	INFO	Marionette enabled
+1670582531511	Marionette	INFO	Listening on port 53813
+WebDriver BiDi listening on ws://127.0.0.1:53800
+Read port: 53813
+1670582531677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileRnomqE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53800/devtools/browser/a8a82c47-6a74-47c8-8066-36b77870bee0
+1670582542022	Marionette	INFO	Stopped listening on port 53813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582659555	geckodriver	INFO	Listening on 127.0.0.1:53908
+1670582662606	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileK1N8VQ"
+1670582662871	Marionette	INFO	Marionette enabled
+1670582662875	Marionette	INFO	Listening on port 53922
+WebDriver BiDi listening on ws://127.0.0.1:53909
+Read port: 53922
+1670582663038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileK1N8VQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53909/devtools/browser/ed343b94-7238-4411-a659-2640aac16176
+1670582679021	Marionette	INFO	Stopped listening on port 53922
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582722452	geckodriver	INFO	Listening on 127.0.0.1:53990
+1670582725522	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilewy7CfZ"
+1670582725789	Marionette	INFO	Marionette enabled
+1670582725793	Marionette	INFO	Listening on port 54003
+WebDriver BiDi listening on ws://127.0.0.1:53991
+Read port: 54003
+1670582725961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilewy7CfZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53991/devtools/browser/e738f445-b178-4f1c-833a-243f08c4f126
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670582748644	Marionette	INFO	Stopped listening on port 54003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582758317	geckodriver	INFO	Listening on 127.0.0.1:54049
+1670582761372	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelcJN2i"
+1670582761634	Marionette	INFO	Marionette enabled
+1670582761637	Marionette	INFO	Listening on port 54063
+WebDriver BiDi listening on ws://127.0.0.1:54050
+Read port: 54063
+1670582761808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilelcJN2i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54050/devtools/browser/d12a02e1-c874-4821-b249-17eac2119b03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670582781281	Marionette	INFO	Stopped listening on port 54063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582859717	geckodriver	INFO	Listening on 127.0.0.1:54167
+1670582862771	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileUtTCXa"
+1670582863047	Marionette	INFO	Marionette enabled
+1670582863051	Marionette	INFO	Listening on port 54185
+Read port: 54185
+WebDriver BiDi listening on ws://127.0.0.1:54168
+1670582863160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileUtTCXa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54168/devtools/browser/c1663ef1-cecb-45db-a07e-bd70eaa252cc
+1670582869373	Marionette	INFO	Stopped listening on port 54185
+[Parent 3052, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582928061	geckodriver	INFO	Listening on 127.0.0.1:54265
+1670582931118	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilegcIzfY"
+1670582931386	Marionette	INFO	Marionette enabled
+1670582931390	Marionette	INFO	Listening on port 54280
+WebDriver BiDi listening on ws://127.0.0.1:54266
+Read port: 54280
+1670582931562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilegcIzfY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54266/devtools/browser/835ec2f4-3375-4752-b483-e04e9c13925d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670582977002	Marionette	INFO	Stopped listening on port 54280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670582991046	geckodriver	INFO	Listening on 127.0.0.1:54347
+1670582994098	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilebGjIAs"
+1670582994362	Marionette	INFO	Marionette enabled
+1670582994366	Marionette	INFO	Listening on port 54360
+WebDriver BiDi listening on ws://127.0.0.1:54348
+Read port: 54360
+1670582994537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilebGjIAs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54348/devtools/browser/83754977-aa72-4090-ad37-4376dea7e23d
+1670583001449	Marionette	INFO	Stopped listening on port 54360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670583243978	geckodriver	INFO	Listening on 127.0.0.1:54537
+1670583247029	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileVUymEx"
+1670583247301	Marionette	INFO	Marionette enabled
+1670583247305	Marionette	INFO	Listening on port 54548
+WebDriver BiDi listening on ws://127.0.0.1:54538
+Read port: 54548
+1670583247473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileVUymEx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54538/devtools/browser/70d62f6d-84ed-44f8-8c3b-0abea95dd4ed
+1670583250039	Marionette	INFO	Stopped listening on port 54548
+1670583256521	geckodriver	INFO	Listening on 127.0.0.1:54574
+1670583259606	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDfutey"
+1670583259872	Marionette	INFO	Marionette enabled
+1670583259876	Marionette	INFO	Listening on port 54588
+WebDriver BiDi listening on ws://127.0.0.1:54575
+Read port: 54588
+1670583260046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDfutey\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54575/devtools/browser/1914a8e4-1fb6-47a4-96a8-b4180780305a
+1670583266037	Marionette	INFO	Stopped listening on port 54588
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670583287634	geckodriver	INFO	Listening on 127.0.0.1:54638
+1670583290697	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileXIgWkN"
+1670583290961	Marionette	INFO	Marionette enabled
+1670583290965	Marionette	INFO	Listening on port 54651
+WebDriver BiDi listening on ws://127.0.0.1:54639
+Read port: 54651
+1670583291136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileXIgWkN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54639/devtools/browser/011173b1-7329-4494-8c1b-dd548b2f7dde
+1670583298020	Marionette	INFO	Stopped listening on port 54651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670583428989	geckodriver	INFO	Listening on 127.0.0.1:54749
+1670583432034	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile51IyJf"
+1670583432299	Marionette	INFO	Marionette enabled
+1670583432303	Marionette	INFO	Listening on port 54763
+Read port: 54763
+WebDriver BiDi listening on ws://127.0.0.1:54750
+1670583432411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile51IyJf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54750/devtools/browser/0da4cc29-1b86-4cbf-9a47-decd4076ac9d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584030422	Marionette	INFO	Stopped listening on port 54763
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584060506	geckodriver	INFO	Listening on 127.0.0.1:55313
+1670584063577	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileXRGKSQ"
+1670584063852	Marionette	INFO	Marionette enabled
+1670584063856	Marionette	INFO	Listening on port 55327
+WebDriver BiDi listening on ws://127.0.0.1:55314
+Read port: 55327
+1670584064025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileXRGKSQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55314/devtools/browser/e7580b86-ebe7-41cd-a3a3-82ca6ddba561
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584091080	Marionette	INFO	Stopped listening on port 55327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584120551	geckodriver	INFO	Listening on 127.0.0.1:55388
+1670584123600	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledtvakK"
+1670584123887	Marionette	INFO	Marionette enabled
+1670584123890	Marionette	INFO	Listening on port 55404
+Read port: 55404
+WebDriver BiDi listening on ws://127.0.0.1:55389
+1670584123997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledtvakK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55389/devtools/browser/3bd983d7-8697-4786-9f0f-915dad1809b7
+1670584127434	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670584164506	Marionette	INFO	Stopped listening on port 55404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584170664	geckodriver	INFO	Listening on 127.0.0.1:55192
+1670584173745	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileeFviFw"
+1670584174018	Marionette	INFO	Marionette enabled
+1670584174022	Marionette	INFO	Listening on port 55207
+Read port: 55207
+WebDriver BiDi listening on ws://127.0.0.1:55193
+1670584174131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileeFviFw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55193/devtools/browser/100261f6-86d1-4e56-876f-0722f9335da6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584200382	Marionette	INFO	Stopped listening on port 55207
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584213584	geckodriver	INFO	Listening on 127.0.0.1:55276
+1670584216647	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileOwpqqj"
+1670584216913	Marionette	INFO	Marionette enabled
+1670584216917	Marionette	INFO	Listening on port 55290
+WebDriver BiDi listening on ws://127.0.0.1:55277
+Read port: 55290
+1670584217088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileOwpqqj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55277/devtools/browser/029afc65-3367-4f71-b060-00fb9ef6c3c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584241190	Marionette	INFO	Stopped listening on port 55290
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584247276	geckodriver	INFO	Listening on 127.0.0.1:55333
+1670584250347	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile61kPpz"
+1670584250614	Marionette	INFO	Marionette enabled
+1670584250617	Marionette	INFO	Listening on port 55347
+WebDriver BiDi listening on ws://127.0.0.1:55334
+Read port: 55347
+1670584250790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile61kPpz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55334/devtools/browser/1cbe5e9e-7a16-4cf1-b1a3-97b6f4523905
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584312185	Marionette	INFO	Stopped listening on port 55347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584341610	geckodriver	INFO	Listening on 127.0.0.1:55426
+1670584344666	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileJZ7kix"
+1670584344935	Marionette	INFO	Marionette enabled
+1670584344939	Marionette	INFO	Listening on port 55439
+WebDriver BiDi listening on ws://127.0.0.1:55427
+Read port: 55439
+1670584345127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileJZ7kix\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55427/devtools/browser/fab9f5a1-4530-4e4f-8973-fc31625b8f5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670585148903	Marionette	INFO	Stopped listening on port 55439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "55515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSBAjTg"
+1670584427460	Marionette	INFO	Marionette enabled
+1670584427464	Marionette	INFO	Listening on port 55527
+WebDriver BiDi listening on ws://127.0.0.1:55515
+Read port: 55527
+1670584427639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileSBAjTg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55515/devtools/browser/998a85bc-ffaa-4055-8091-0f04f1f02e7f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584479654	Marionette	INFO	Stopped listening on port 55527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670584739971	geckodriver	INFO	Listening on 127.0.0.1:55734
+1670584743012	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileoQqKLQ"
+1670584743337	Marionette	INFO	Marionette enabled
+1670584743342	Marionette	INFO	Listening on port 55754
+Read port: 55754
+WebDriver BiDi listening on ws://127.0.0.1:55735
+1670584743463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileoQqKLQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55735/devtools/browser/07438ecf-c368-4177-8508-ddb464e2e59c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584756507	Marionette	INFO	Stopped listening on port 55754
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584769306	geckodriver	INFO	Listening on 127.0.0.1:55797
+1670584772385	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWMD14c"
+1670584772647	Marionette	INFO	Marionette enabled
+1670584772650	Marionette	INFO	Listening on port 55810
+WebDriver BiDi listening on ws://127.0.0.1:55798
+Read port: 55810
+1670584772821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWMD14c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55798/devtools/browser/7e837eef-a1ed-4554-bfb3-b1c40f91f025
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+JavaScript error: https://www.gryfsklep.pl/modules/ps_facebook/views/js/front/conversion-api.js, line 23: TypeError: params.event.handleObj is undefined
+1670584886117	Marionette	INFO	Stopped listening on port 55810
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670584955126	geckodriver	INFO	Listening on 127.0.0.1:55936
+1670584958198	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile9Qnx9N"
+1670584958463	Marionette	INFO	Marionette enabled
+1670584958466	Marionette	INFO	Listening on port 55953
+WebDriver BiDi listening on ws://127.0.0.1:55937
+Read port: 55953
+1670584958634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile9Qnx9N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55937/devtools/browser/a1a9c332-7d75-4b18-9ec4-7df1a178041a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670585010714	Marionette	INFO	Stopped listening on port 55953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670585036515	geckodriver	INFO	Listening on 127.0.0.1:56022
+1670585039571	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilembjK2R"
+1670585039836	Marionette	INFO	Marionette enabled
+1670585039839	Marionette	INFO	Listening on port 56036
+WebDriver BiDi listening on ws://127.0.0.1:56023
+Read port: 56036
+1670585040039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilembjK2R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56023/devtools/browser/3ae0722e-fb69-40cf-bb1f-52a04e8b19a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670585060962	Marionette	INFO	Stopped listening on port 56036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670585099868	geckodriver	INFO	Listening on 127.0.0.1:56095
+1670585102928	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileFjmAEm"
+1670585103192	Marionette	INFO	Marionette enabled
+1670585103196	Marionette	INFO	Listening on port 56108
+WebDriver BiDi listening on ws://127.0.0.1:56096
+Read port: 56108
+1670585103371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileFjmAEm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56096/devtools/browser/151bb091-6a94-473f-bcec-17ee2bbed84d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670585148458	Marionette	INFO	Stopped listening on port 56108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670585150358	geckodriver	INFO	Listening on 127.0.0.1:56159
+1670585153438	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileBd9SNy"
+1670585153712	Marionette	INFO	Marionette enabled
+1670585153715	Marionette	INFO	Listening on port 56172
+Read port: 56172
+WebDriver BiDi listening on ws://127.0.0.1:56160
+1670585153821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileBd9SNy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56160/devtools/browser/8f29f9a7-e6a1-4e1c-9293-698bd114b1f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670585189136	Marionette	INFO	Stopped listening on port 56172
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670585204549	geckodriver	INFO	Listening on 127.0.0.1:56226
+1670585207623	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileJGMjL0"
+1670585207885	Marionette	INFO	Marionette enabled
+1670585207889	Marionette	INFO	Listening on port 56240
+WebDriver BiDi listening on ws://127.0.0.1:56227
+Read port: 56240
+1670585208057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileJGMjL0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56227/devtools/browser/562d5520-5b95-4db2-91b5-c6ca1f5fd607
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670585237105	Marionette	INFO	Stopped listening on port 56240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670585257362	geckodriver	INFO	Listening on 127.0.0.1:56295
+1670585260437	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilev99zDs"
+1670585260708	Marionette	INFO	Marionette enabled
+1670585260711	Marionette	INFO	Listening on port 56307
+WebDriver BiDi listening on ws://127.0.0.1:56296
+Read port: 56307
+1670585260876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilev99zDs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56296/devtools/browser/e5b5fa9f-a272-4c9f-bc02-832d5da34f8f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670585298964	Marionette	INFO	Stopped listening on port 56307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670585575447	geckodriver	INFO	Listening on 127.0.0.1:56492
+1670585578500	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledf0Jgs"
+1670585578768	Marionette	INFO	Marionette enabled
+1670585578772	Marionette	INFO	Listening on port 56505
+WebDriver BiDi listening on ws://127.0.0.1:56493
+Read port: 56505
+1670585578938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledf0Jgs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56493/devtools/browser/d53cf9aa-c142-42db-ac83-53b10bb6bd98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670585604081	Marionette	INFO	Stopped listening on port 56505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670589407784	geckodriver	INFO	Listening on 127.0.0.1:56946
+1670589410851	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexbVRup"
+1670589411125	Marionette	INFO	Marionette enabled
+1670589411129	Marionette	INFO	Listening on port 56960
+WebDriver BiDi listening on ws://127.0.0.1:56947
+Read port: 56960
+1670589411300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilexbVRup\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56947/devtools/browser/2ae88b75-bd3e-48a2-95b1-6345c3af404e
+1670589412601	Marionette	INFO	Stopped listening on port 56960
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670589418137	geckodriver	INFO	Listening on 127.0.0.1:56974
+1670589421195	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileeJIsvC"
+1670589421469	Marionette	INFO	Marionette enabled
+1670589421473	Marionette	INFO	Listening on port 56987
+Read port: 56987
+WebDriver BiDi listening on ws://127.0.0.1:56975
+1670589421590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileeJIsvC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56975/devtools/browser/3e9febd4-aff6-44b4-9678-120d6f7d3a67
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670589559015	Marionette	INFO	Stopped listening on port 56987
+1670589567560	geckodriver	INFO	Listening on 127.0.0.1:57089
+1670589570601	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileXoRSqI"
+1670589570872	Marionette	INFO	Marionette enabled
+1670589570875	Marionette	INFO	Listening on port 57102
+Read port: 57102
+WebDriver BiDi listening on ws://127.0.0.1:57090
+1670589570985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileXoRSqI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57090/devtools/browser/eaac0079-8110-4b99-b7c1-655dc61af567
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670590668123	Marionette	INFO	Stopped listening on port 57102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670591096267	geckodriver	INFO	Listening on 127.0.0.1:58103
+1670591099319	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQjJqqc"
+1670591099620	Marionette	INFO	Marionette enabled
+1670591099624	Marionette	INFO	Listening on port 58117
+Read port: 58117
+WebDriver BiDi listening on ws://127.0.0.1:58104
+1670591099725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQjJqqc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58104/devtools/browser/42ebabc2-d55d-4561-8743-2898a0cbb788
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670591125839	Marionette	INFO	Stopped listening on port 58117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670591135946	geckodriver	INFO	Listening on 127.0.0.1:58164
+1670591139017	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileujAMWh"
+1670591139302	Marionette	INFO	Marionette enabled
+1670591139306	Marionette	INFO	Listening on port 58178
+Read port: 58178
+WebDriver BiDi listening on ws://127.0.0.1:58165
+1670591139402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileujAMWh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58165/devtools/browser/9bedc9df-a7d6-411b-81ba-2e45675dff4b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670591161405	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670591779908	Marionette	INFO	Stopped listening on port 58178
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670595516486	geckodriver	INFO	Listening on 127.0.0.1:52131
+1670595519539	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileoRNMPk"
+1670595519861	Marionette	INFO	Marionette enabled
+1670595519865	Marionette	INFO	Listening on port 52145
+WebDriver BiDi listening on ws://127.0.0.1:52132
+Read port: 52145
+1670595520088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileoRNMPk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52132/devtools/browser/d8a2921e-4fd8-41c2-9cf8-61636e77fade
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670595571798	Marionette	INFO	Stopped listening on port 52145
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670595649433	geckodriver	INFO	Listening on 127.0.0.1:52237
+1670595652484	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledTTKrV"
+1670595652782	Marionette	INFO	Marionette enabled
+1670595652785	Marionette	INFO	Listening on port 52250
+Read port: 52250
+WebDriver BiDi listening on ws://127.0.0.1:52238
+1670595652885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledTTKrV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52238/devtools/browser/c467d707-c2c8-4617-b059-66f5b8002c55
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670595661975	Marionette	INFO	Stopped listening on port 52250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10236, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670595789895	geckodriver	INFO	Listening on 127.0.0.1:52357
+1670595792933	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledHsx5B"
+1670595793274	Marionette	INFO	Marionette enabled
+1670595793278	Marionette	INFO	Listening on port 52371
+WebDriver BiDi listening on ws://127.0.0.1:52358
+Read port: 52371
+1670595793499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofiledHsx5B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52358/devtools/browser/34553268-a767-41d0-ac99-3526ba176f54
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670595820685	Marionette	INFO	Stopped listening on port 52371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670595906375	geckodriver	INFO	Listening on 127.0.0.1:52464
+1670595909441	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDvRi8j"
+1670595909736	Marionette	INFO	Marionette enabled
+1670595909740	Marionette	INFO	Listening on port 52477
+Read port: 52477
+WebDriver BiDi listening on ws://127.0.0.1:52465
+1670595909841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileDvRi8j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52465/devtools/browser/31ba8751-bd53-4cdb-8042-0d516b8b9949
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670596153719	Marionette	INFO	Stopped listening on port 52477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670596462916	geckodriver	INFO	Listening on 127.0.0.1:52810
+1670596465936	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilehRZco2"
+1670596466249	Marionette	INFO	Marionette enabled
+1670596466254	Marionette	INFO	Listening on port 52824
+Read port: 52824
+WebDriver BiDi listening on ws://127.0.0.1:52811
+1670596466363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilehRZco2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52811/devtools/browser/04e0f377-6207-4a9b-bdd8-f2e50206ac6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670596499881	Marionette	INFO	Stopped listening on port 52824
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670596602037	geckodriver	INFO	Listening on 127.0.0.1:52926
+1670596605103	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "52927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileBqZut7"
+1670596605397	Marionette	INFO	Marionette enabled
+1670596605400	Marionette	INFO	Listening on port 52939
+Read port: 52939
+WebDriver BiDi listening on ws://127.0.0.1:52927
+1670596605499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileBqZut7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52927/devtools/browser/b71d3430-b9eb-4058-bbd9-fb67385c1118
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670596628187	Marionette	INFO	Stopped listening on port 52939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670597269245	geckodriver	INFO	Listening on 127.0.0.1:53303
+1670597272300	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileJEh7r3"
+1670597272592	Marionette	INFO	Marionette enabled
+1670597272596	Marionette	INFO	Listening on port 53317
+Read port: 53317
+WebDriver BiDi listening on ws://127.0.0.1:53304
+1670597272695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileJEh7r3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53304/devtools/browser/7fcbe550-95db-40cd-a3f2-27451d15c8d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670597322471	Marionette	INFO	Stopped listening on port 53317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670597562117	geckodriver	INFO	Listening on 127.0.0.1:53493
+1670597565167	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQm4elc"
+1670597565458	Marionette	INFO	Marionette enabled
+1670597565463	Marionette	INFO	Listening on port 53506
+Read port: 53506
+WebDriver BiDi listening on ws://127.0.0.1:53494
+1670597565564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQm4elc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53494/devtools/browser/e2abc8a3-91c8-41b9-b525-da290004b63a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670597586154	Marionette	INFO	Stopped listening on port 53506
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670597804512	geckodriver	INFO	Listening on 127.0.0.1:53646
+1670597807566	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilekGgF3y"
+1670597807857	Marionette	INFO	Marionette enabled
+1670597807861	Marionette	INFO	Listening on port 53660
+Read port: 53660
+WebDriver BiDi listening on ws://127.0.0.1:53647
+1670597807961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilekGgF3y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53647/devtools/browser/43070ef5-65f3-4aa7-854e-7a876cc71cf7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670597824327	Marionette	INFO	Stopped listening on port 53660
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670597927168	geckodriver	INFO	Listening on 127.0.0.1:53749
+1670597930225	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileV0lc2z"
+1670597930517	Marionette	INFO	Marionette enabled
+1670597930521	Marionette	INFO	Listening on port 53762
+Read port: 53762
+WebDriver BiDi listening on ws://127.0.0.1:53750
+1670597930617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileV0lc2z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53750/devtools/browser/f4a862c0-4f19-4d50-9505-8c3db081e2e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670597951024	Marionette	INFO	Stopped listening on port 53762
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670597956744	geckodriver	INFO	Listening on 127.0.0.1:53805
+1670597959791	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileObnpZr"
+1670597960085	Marionette	INFO	Marionette enabled
+1670597960089	Marionette	INFO	Listening on port 53818
+Read port: 53818
+WebDriver BiDi listening on ws://127.0.0.1:53806
+1670597960189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileObnpZr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53806/devtools/browser/fd3d634f-208a-4ece-93d0-ca9640c72843
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670598040207	Marionette	INFO	Stopped listening on port 53818
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598051811	geckodriver	INFO	Listening on 127.0.0.1:53902
+1670598054853	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "53903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile8RFCpN"
+1670598055144	Marionette	INFO	Marionette enabled
+1670598055147	Marionette	INFO	Listening on port 53916
+Read port: 53916
+WebDriver BiDi listening on ws://127.0.0.1:53903
+1670598055247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile8RFCpN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53903/devtools/browser/2c218e20-869f-4c63-9f73-a27e00928d37
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670598820174	Marionette	INFO	Stopped listening on port 53916
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "54138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile8pFQ44"
+1670598406510	Marionette	INFO	Marionette enabled
+1670598406514	Marionette	INFO	Listening on port 54150
+Read port: 54150
+WebDriver BiDi listening on ws://127.0.0.1:54138
+1670598406611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile8pFQ44\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54138/devtools/browser/7f3258c6-93ad-479e-b13f-90ca99234f8c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670598820702	Marionette	INFO	Stopped listening on port 54150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "54326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilemXyOXn"
+1670598613815	Marionette	INFO	Marionette enabled
+1670598613819	Marionette	INFO	Listening on port 54338
+Read port: 54338
+WebDriver BiDi listening on ws://127.0.0.1:54326
+1670598613917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilemXyOXn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54326/devtools/browser/bb723642-63b2-4ac9-9e18-26a3212096eb
+JavaScript error: chrome://browser/content/parent/ext-browser.js, line 363: Error: Cannot attach ID to a tab in a closed window.
+1670598615389	Marionette	INFO	Stopped listening on port 54338
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598643629	geckodriver	INFO	Listening on 127.0.0.1:54364
+1670598646693	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileMMX5zm"
+1670598646974	Marionette	INFO	Marionette enabled
+1670598646978	Marionette	INFO	Listening on port 54377
+Read port: 54377
+WebDriver BiDi listening on ws://127.0.0.1:54365
+1670598647074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileMMX5zm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54365/devtools/browser/c2f2be21-fe16-495a-bdf8-efff8e85c65b
+1670598654087	Marionette	INFO	Stopped listening on port 54377
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598670936	geckodriver	INFO	Listening on 127.0.0.1:54417
+1670598674009	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54418" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileNK6bG1"
+1670598674305	Marionette	INFO	Marionette enabled
+1670598674309	Marionette	INFO	Listening on port 54430
+Read port: 54430
+WebDriver BiDi listening on ws://127.0.0.1:54418
+1670598674408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileNK6bG1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54418/devtools/browser/082fd34a-e31d-4958-afe4-1739d0fcc376
+1670598676425	Marionette	INFO	Stopped listening on port 54430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598696327	geckodriver	INFO	Listening on 127.0.0.1:54457
+1670598699369	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileKQgT1i"
+1670598699653	Marionette	INFO	Marionette enabled
+1670598699657	Marionette	INFO	Listening on port 54471
+Read port: 54471
+WebDriver BiDi listening on ws://127.0.0.1:54458
+1670598699774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileKQgT1i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54458/devtools/browser/6bae5ca0-f7db-4a89-a247-d6e96e22d451
+1670598701326	Marionette	INFO	Stopped listening on port 54471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598714210	geckodriver	INFO	Listening on 127.0.0.1:54491
+1670598717273	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileUnQvFN"
+1670598717567	Marionette	INFO	Marionette enabled
+1670598717571	Marionette	INFO	Listening on port 54504
+Read port: 54504
+WebDriver BiDi listening on ws://127.0.0.1:54492
+1670598717672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileUnQvFN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54492/devtools/browser/9c1e39d5-a027-45b7-a3eb-f375da3dbc93
+1670598719072	Marionette	INFO	Stopped listening on port 54504
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598750327	geckodriver	INFO	Listening on 127.0.0.1:54531
+1670598753375	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileVpePsW"
+1670598753660	Marionette	INFO	Marionette enabled
+1670598753665	Marionette	INFO	Listening on port 54544
+Read port: 54544
+WebDriver BiDi listening on ws://127.0.0.1:54532
+1670598753763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileVpePsW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54532/devtools/browser/7b0f8eb7-bb57-47b4-beaa-d2039eeca388
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670598771329	Marionette	INFO	Stopped listening on port 54544
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598776490	geckodriver	INFO	Listening on 127.0.0.1:54588
+1670598779572	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile9rbVKL"
+1670598779860	Marionette	INFO	Marionette enabled
+1670598779864	Marionette	INFO	Listening on port 54602
+Read port: 54602
+WebDriver BiDi listening on ws://127.0.0.1:54589
+1670598779961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile9rbVKL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54589/devtools/browser/f1b43e70-3cb2-495e-b127-f0de006c2a81
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670599007152	Marionette	INFO	Stopped listening on port 54602
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "54666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileHfbesS"
+1670598826818	Marionette	INFO	Marionette enabled
+1670598826821	Marionette	INFO	Listening on port 54679
+Read port: 54679
+WebDriver BiDi listening on ws://127.0.0.1:54666
+1670598826919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileHfbesS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54666/devtools/browser/98b3d3bd-88ba-43cc-8590-c38aec04f319
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670598842141	Marionette	INFO	Stopped listening on port 54679
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598875899	geckodriver	INFO	Listening on 127.0.0.1:54737
+1670598878949	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilezDtHVg"
+1670598879239	Marionette	INFO	Marionette enabled
+1670598879243	Marionette	INFO	Listening on port 54751
+Read port: 54751
+WebDriver BiDi listening on ws://127.0.0.1:54738
+1670598879340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilezDtHVg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54738/devtools/browser/145ce44e-ce4a-43f3-aa11-71e640973302
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670598900004	Marionette	INFO	Stopped listening on port 54751
+[Parent 26992, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670598956346	geckodriver	INFO	Listening on 127.0.0.1:54822
+1670598959399	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyd0bju"
+1670598959691	Marionette	INFO	Marionette enabled
+1670598959695	Marionette	INFO	Listening on port 54836
+Read port: 54836
+WebDriver BiDi listening on ws://127.0.0.1:54823
+1670598959794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyd0bju\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54823/devtools/browser/68b0a4c2-6e72-45c0-913b-a4af9dfc4ab6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670599006798	Marionette	INFO	Stopped listening on port 54836
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670599174244	geckodriver	INFO	Listening on 127.0.0.1:54994
+1670599177308	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "54995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWNpijW"
+1670599177604	Marionette	INFO	Marionette enabled
+1670599177607	Marionette	INFO	Listening on port 55007
+Read port: 55007
+WebDriver BiDi listening on ws://127.0.0.1:54995
+1670599177706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileWNpijW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54995/devtools/browser/886e26be-e54b-459e-888b-3110d2b139a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670599212867	Marionette	INFO	Stopped listening on port 55007
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670599279693	geckodriver	INFO	Listening on 127.0.0.1:55086
+1670599282755	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile6s2PJT"
+1670599283074	Marionette	INFO	Marionette enabled
+1670599283078	Marionette	INFO	Listening on port 55099
+Read port: 55099
+WebDriver BiDi listening on ws://127.0.0.1:55087
+1670599283187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile6s2PJT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55087/devtools/browser/186d977d-deee-4236-84d3-2eee8240af3e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670599305767	Marionette	INFO	Stopped listening on port 55099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670599512893	geckodriver	INFO	Listening on 127.0.0.1:59625
+1670599515957	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilex6JeDy"
+1670599516250	Marionette	INFO	Marionette enabled
+1670599516254	Marionette	INFO	Listening on port 59638
+Read port: 59638
+WebDriver BiDi listening on ws://127.0.0.1:59626
+1670599516352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilex6JeDy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59626/devtools/browser/e2102c55-c68c-4cd2-8bc9-38c5eac2ea51
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670599540510	Marionette	INFO	Stopped listening on port 59638
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670599714770	geckodriver	INFO	Listening on 127.0.0.1:59769
+1670599717833	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileAY2FhQ"
+1670599718124	Marionette	INFO	Marionette enabled
+1670599718128	Marionette	INFO	Listening on port 59783
+Read port: 59783
+WebDriver BiDi listening on ws://127.0.0.1:59770
+1670599718225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileAY2FhQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59770/devtools/browser/2200917f-2b32-4c7f-ab22-8f9f3012706c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670599959391	Marionette	INFO	Stopped listening on port 59783
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "59866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileYHuAKY"
+1670599820781	Marionette	INFO	Marionette enabled
+1670599820785	Marionette	INFO	Listening on port 59878
+Read port: 59878
+WebDriver BiDi listening on ws://127.0.0.1:59866
+1670599820882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileYHuAKY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59866/devtools/browser/2ab3af4e-c793-4ca8-a4bd-ea7898984a1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670599845030	Marionette	INFO	Stopped listening on port 59878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670599897606	geckodriver	INFO	Listening on 127.0.0.1:59949
+1670599900668	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyoZ818"
+1670599900959	Marionette	INFO	Marionette enabled
+1670599900963	Marionette	INFO	Listening on port 59963
+Read port: 59963
+WebDriver BiDi listening on ws://127.0.0.1:59950
+1670599901061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileyoZ818\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59950/devtools/browser/2d256e70-19be-4546-97e0-4e28d8df57be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/index.php?controller=order. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/index.php?controller=order. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/index.php?controller=order. Code 2153394164.
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_emailsubscription/views/js/ps_emailsubscription.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/ps_emailsubscription/views/js/ps_emailsubscription.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_emailsubscription/views/js/ps_emailsubscription.js. Code 2153394164.
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670600455616	Marionette	INFO	Stopped listening on port 59963
+ebugging-port" "50394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilePLnUNs"
+1670599965098	Marionette	INFO	Marionette enabled
+1670599965102	Marionette	INFO	Listening on port 50407
+Read port: 50407
+WebDriver BiDi listening on ws://127.0.0.1:50394
+1670599965206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilePLnUNs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50394/devtools/browser/84259446-612a-4729-a78f-663d4b9ccb7e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/blockreassurance/views/dist/front.js. Code 2153394164.
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/index.php?controller=order. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/index.php?controller=order. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_emailsubscription/views/js/ps_emailsubscription.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/ps_emailsubscription/views/js/ps_emailsubscription.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+SourceActor threw an exception: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/index.php?controller=order. Code 2153394164.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_emailsubscription/views/js/ps_emailsubscription.js. Code 2153394164.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://www.gryfsklep.pl/modules/ps_imageslider/js/homeslider.js. Code 2153394164.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670600457423	Marionette	INFO	Stopped listening on port 50407
+ebugging-port" "50479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileCjpzZn"
+1670600030378	Marionette	INFO	Marionette enabled
+1670600030383	Marionette	INFO	Listening on port 50491
+Read port: 50491
+WebDriver BiDi listening on ws://127.0.0.1:50479
+1670600030482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileCjpzZn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50479/devtools/browser/1ca68b34-79b0-4f3e-b2c0-0eb4fc167805
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670600081942	geckodriver	INFO	Listening on 127.0.0.1:50550
+1670600085011	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQqsFDA"
+1670600085309	Marionette	INFO	Marionette enabled
+1670600085313	Marionette	INFO	Listening on port 50564
+Read port: 50564
+WebDriver BiDi listening on ws://127.0.0.1:50551
+1670600085418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofileQqsFDA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50551/devtools/browser/da5ebf32-c488-4dd5-a8fc-ff073b0a5450
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670600152010	geckodriver	INFO	Listening on 127.0.0.1:50640
+1670600155058	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejLDOQM"
+1670600155350	Marionette	INFO	Marionette enabled
+1670600155354	Marionette	INFO	Listening on port 50653
+Read port: 50653
+WebDriver BiDi listening on ws://127.0.0.1:50641
+1670600155451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilejLDOQM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50641/devtools/browser/e58165e5-01e8-417e-9b76-623c9232ab24
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670600200693	geckodriver	INFO	Listening on 127.0.0.1:50709
+1670600203740	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilej3YFnw"
+1670600204030	Marionette	INFO	Marionette enabled
+1670600204034	Marionette	INFO	Listening on port 50723
+Read port: 50723
+WebDriver BiDi listening on ws://127.0.0.1:50710
+1670600204129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofilej3YFnw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50710/devtools/browser/2a918c27-0b94-42d6-a94b-b4cd829ce492
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+1670600461684	geckodriver	INFO	Listening on 127.0.0.1:50948
+1670600464730	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile2uJ6IP"
+1670600465028	Marionette	INFO	Marionette enabled
+1670600465032	Marionette	INFO	Listening on port 50961
+Read port: 50961
+WebDriver BiDi listening on ws://127.0.0.1:50949
+1670600465135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Echo\\AppData\\Local\\Temp\\rust_mozprofile2uJ6IP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50949/devtools/browser/5b39aa97-bc00-42d0-a5e6-35e08707fa79
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gryfsklep.pl."
