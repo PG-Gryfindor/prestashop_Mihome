@@ -1,0 +1,79 @@
+version: "4"
+
+services:
+  proxy:
+    image: nginx:1-alpine
+    hostname: proxy
+    container_name: proxy
+    volumes:
+      - ./nginx_configs/:/etc/nginx/conf.d/:ro
+      - ./certs/:/etc/nginx/certs/
+    ports:
+      - 80:80
+      - 443:443
+    networks:
+      - internal-network
+  prestashop:
+    image: prestashop/prestashop
+    hostname: prestashop
+    container_name: prestashop
+    networks:
+      - internal-network
+    links:
+      - mysql:mysql
+    # depends_on:
+    #   - mysql
+    volumes:
+      - psHTML:/srv/Configs/PrestaShop/src:/var/www/html
+      - psHTML:/srv/Configs/PrestaShop/src/modules:/var/www/html/modules
+      - ./themes:/var/www/html/themes
+      - psHTML:/srv/Configs/PrestaShop/src/override:/var/www/html/override
+    environment:
+      - DB_SERVER=mysql
+      - DB_USER=root
+      - DB_PASSWD=Alohomora
+      - DB_NAME=prestashopMI
+#      - PS_LANGUAGE=pl
+#      - PS_COUNTRY=PL
+#      - PS_HANDLE_DYNAMIC_DOMAIN=1
+#      - PS_INSTALL_AUTO=1
+
+
+  mysql:
+    image: mysql
+    hostname: mysql
+    container_name: mysql
+    networks:
+      - internal-network
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    volumes:
+      - psHTML:/srv/Databases/PrestaShop:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=Alohomora
+      - MYSQL_DATABASE=prestashopMI
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    hostname: phpmyadmin
+    container_name: phpmyadmin
+    networks:
+      - internal-network
+    links:
+      - mysql:mysql
+    ports:
+      - 1235:80
+    # depends_on:
+    #   - mysql
+    environment:
+      - PMA_HOST=mysql
+      - PMA_USER=root
+      - PMA_PASSWORD=Alohomora
+
+networks:
+  internal-network:
+
+volumes:
+  psHTML:
+
+  # AdminAlohomora
