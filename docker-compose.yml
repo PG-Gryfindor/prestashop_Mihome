@@ -16,10 +16,7 @@ services:
     depends_on:
       - prestashop
   prestashop:
-    #image: prestashop/prestashop
-    build:
-      context: prestashop
-      dockerfile: Dockerfile
+    image: dawidmartenczuk/prestashop
     hostname: prestashop
     container_name: prestashop
     networks:

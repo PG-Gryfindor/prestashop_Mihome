@@ -33,4 +33,7 @@ download/
 /img/*
 upload/
 
+prestashop/img/*
+prestashop/theme/*
+
 tmp/
