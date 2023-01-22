@@ -13,21 +13,25 @@ services:
       - 443:443
     networks:
       - internal-network
+    depends_on:
+      - prestashop
   prestashop:
-    image: prestashop/prestashop
+    #image: prestashop/prestashop
+    build:
+      context: prestashop
+      dockerfile: Dockerfile
     hostname: prestashop
     container_name: prestashop
     networks:
       - internal-network
     links:
       - mysql:mysql
-    # depends_on:
-    #   - mysql
+    depends_on:
+      - mysql
     volumes:
-      - psHTML:/srv/Configs/PrestaShop/src:/var/www/html
-      - psHTML:/srv/Configs/PrestaShop/src/modules:/var/www/html/modules
-      - ./themes:/var/www/html/themes
-      - psHTML:/srv/Configs/PrestaShop/src/override:/var/www/html/override
+      - prestashop-volume:/srv/Configs/PrestaShop/src:/var/www/html
+      - prestashop-volume:/srv/Configs/PrestaShop/src/modules:/var/www/html/modules
+      - prestashop-volume:/srv/Configs/PrestaShop/src/override:/var/www/html/override
     environment:
       - DB_SERVER=mysql
       - DB_USER=root
@@ -48,7 +52,8 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     restart: always
     volumes:
-      - psHTML:/srv/Databases/PrestaShop:/var/lib/mysql
+      - mysql-volume:/srv/Databases/PrestaShop:/var/lib/mysql
+      - ./db-dump:/dump
     environment:
       - MYSQL_ROOT_PASSWORD=Alohomora
       - MYSQL_DATABASE=prestashopMI
@@ -59,12 +64,10 @@ services:
     container_name: phpmyadmin
     networks:
       - internal-network
-    links:
-      - mysql:mysql
+    depends_on:
+      - mysql
     ports:
       - 1235:80
-    # depends_on:
-    #   - mysql
     environment:
       - PMA_HOST=mysql
       - PMA_USER=root
@@ -74,6 +77,7 @@ networks:
   internal-network:
 
 volumes:
-  psHTML:
+  prestashop-volume:
+  mysql-volume:
 
   # AdminAlohomora
